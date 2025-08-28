@@ -3,6 +3,7 @@ dev.txt
 display.zip
 credentials.ini
 
+__pycache__/**
 build/**
 dist/**
 release/**
