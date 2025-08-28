@@ -1,0 +1,10 @@
+main.spec
+dev.txt
+display.zip
+credentials.ini
+
+build/**
+dist/**
+release/**
+tests/** 
+logs/**
